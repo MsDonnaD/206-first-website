@@ -64,15 +64,19 @@ footer {
   }
 
   #column-1 {
-    background-color: pink ;
+    background-color: pink;
+    width: 50%;
   }
 
   #column-2 {
-    background-color: purple  ;
+    background-color: purple;
+    width: 50%;
   }
 
   #column-3 {
     background-color: white;
+    width: 50%;
+    align: center; 
   }
 
   footer {
@@ -89,15 +93,18 @@ footer {
   }
 
   #column-1 {
-    background-color: blue ;
+    background-color: blue;
+    width: 33%;
   }
 
   #column-2 {
     background-color: grey ;
+     width: 33%;
   }
 
   #column-3 {
     background-color: white;
+     width: 33%;
   }
 
   footer {
